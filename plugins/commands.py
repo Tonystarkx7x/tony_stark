@@ -23,13 +23,13 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/SA_update')
+                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/tonystarkbotsx')
             ],
             [
                 InlineKeyboardButton('♠️ Subscribe ♠️', url='https://youtube.com/@sa.editz_0'),
             ],
             [
-                InlineKeyboardButton('🎗️ Owner 🎗️',url='https://t.me/Shahilakhtar')
+                InlineKeyboardButton('🎗️ Owner 🎗️',url='https://t.me/starkx77')
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -49,9 +49,9 @@ async def start(client, message):
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton(
-                '🔍 Movies Group 🔍', url='https://t.me/allmovies_webserieshere'),
+                '🔍 Movies Group 🔍', url='https://t.me/allmovies4udownloder'),
             InlineKeyboardButton(
-                '🤖 Updates', url='https://t.me/SA_update')
+                '🤖 Updates', url='https://t.me/starkx77')
         ], [
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
@@ -101,9 +101,9 @@ async def start(client, message):
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
              InlineKeyboardButton(
-                '🔍 Movies Group 🔍', url='https://t.me/allmovies_webserieshere'),
+                '🔍 Movies Group 🔍', url='https://t.me/allmovies4udownloder'),
             InlineKeyboardButton(
-                '🤖 Updates', url='https://t.me/SA_update')
+                '🤖 Updates', url='https://t.me/starkx77')
         ], [
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
@@ -159,10 +159,10 @@ async def start(client, message):
                     protect_content=msg.get('protect', False),
                     reply_markup=InlineKeyboardMarkup(
                         [
-                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/SA_bot_discussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/SA_update')
+                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/moviesuploaderbotprovider'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/tonystarkbotsx')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Shahilakhtar")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/starkx77")
                          ]
                         ]
                     )
@@ -177,10 +177,10 @@ async def start(client, message):
                     protect_content=msg.get('protect', False),
                     reply_markup=InlineKeyboardMarkup(
                         [
-                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/SA_bot_discussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/SA_update')
+                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/moviesuploaderbotprovider'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/tonystarkbotsx')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Shahilakhtar")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/starkx77")
                          ]
                         ]
                     )
@@ -248,10 +248,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/SA_bot_discussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/SA_update')
+                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/moviesuploaderbotprovider'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/tonystarkbotsx')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Shahilakhtar")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/starkx77")
                          ]
                         ]
                     )
@@ -291,10 +291,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                          [
-                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/SA_bot_discussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/SA_update')
+                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/moviesuploaderbotprovider'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/tonystarkbotsx')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Shahilakhtar")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/starkx77")
                          ]
                         ]
                     )
