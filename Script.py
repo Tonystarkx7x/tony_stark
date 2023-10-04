@@ -4,9 +4,9 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 \n★ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs."""
 
-    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Movies_X_Robot><b>Salman Khan</b></a>\n
-👑 Oᴡɴᴇʀ : <a href=@Shahilakhtar><b>🏆 Shahil Akhtar 🏆</b></a>\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/SA_update><b>⚡ SA Bots ⚡</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Tony_stark_movies_bot><b>Tony Stark</b></a>\n
+👑 Oᴡɴᴇʀ : <a href=@starkx77><b>🏆 Stark 🏆</b></a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/SA_update><b>⚡ Tony_Bots ⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
@@ -14,7 +14,7 @@ class script(object):
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
-✅ - ꜱᴏᴜʀᴄᴇ - <a href="@Shahilakhtar">⚡ ʜᴇʀᴇ ⚡</a>
+✅ - ꜱᴏᴜʀᴄᴇ - <a href="@starkx77">⚡ ʜᴇʀᴇ ⚡</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -36,7 +36,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Shahilakhtar)</code>
+<code>[Button Text](buttonurl:https://t.me/starkx77)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -97,7 +97,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>
-Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ - <a href="@Shahilakhtar">⚡ Shahil Akhtar ⚡</a>"""
+Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ - <a href="@starkx77">⚡ Stark ⚡</a>"""
 
     LOG_TEXT_G = """<b>#ɴᴇᴡ_ɢʀᴏᴜᴩ
 
@@ -133,7 +133,7 @@ Nᴀᴍᴇ - {}"""
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Shahil akhtar
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Shahilakhtar'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/starkx77'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 Check Your Spelling, Release Date, If You Still Don't Get The Movie Then Type Like This...
@@ -169,7 +169,7 @@ Owner Will Update The Movie Within 24Hour"""
 ♦️ <b>Requested By : {}</b>
 ♦️ <b>User ID</b> : `{}` """
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :<a href=https://t.me/allmovies_webserieshere> {file_name} </a>"""
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :<a href=https://t.me/tonystarkbotsx> {file_name} </a>"""
 
     IMDB_TEMPLATE_TXT = """<b><i>📟 ᴛɪᴛᴛʟᴇ :</b></i> {title} \n<b><i>🌟 ʀᴀᴛɪɴɢ :</b></i> {rating} \n<b><i>🎭 ɢᴇɴʀᴇ :</b></i> {genres} \n<b><i>📆 ʀᴇʟᴇᴀsᴇ :</b></i> {year} </b></i>\n<b><i>⏰ ᴅᴜʀᴀᴛɪᴏɴ :</b></i> {runtime}\n\n<b><i>🔖 𝓟𝓵𝓸𝓽  :</b></i> `{plot}` \n\n<b><i>⚡ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ⚡ :</b></i> {message.chat.title} \nThis Message Will Be Deleted After 10 Minutes To Avoid Copyright"""
 
