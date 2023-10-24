@@ -26,10 +26,10 @@ async def start(client, message):
                 InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/tonystarkbotsx')
             ],
             [
-                InlineKeyboardButton('♠️ Subscribe ♠️', url='https://youtube.com/@STARKBotZ7'),
+                InlineKeyboardButton('♠️ ꜱᴜʙꜱᴄʀɪʙᴇ ♠️', url='https://youtube.com/@STARKBotZ7'),
             ],
             [
-                InlineKeyboardButton('🎗️ Owner 🎗️',url='https://t.me/starkx77')
+                InlineKeyboardButton('🎗️ ᴏᴡɴᴇʀ 🎗️',url='https://t.me/starkx77')
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -51,7 +51,7 @@ async def start(client, message):
             InlineKeyboardButton(
                 '🍿 ᴍᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ 🍿', url='https://t.me/Allmovie4uuu'),
             InlineKeyboardButton(
-                '🤖 Updates', url='https://t.me/starkx77')
+                '📣 ᴜᴘᴅᴀᴛᴇ 📣', url='https://t.me/starkx77')
         ], [
             InlineKeyboardButton('📚 ʜᴇʟᴘ 📚', callback_data='help'),
             InlineKeyboardButton('🌐 ᴀʙᴏᴜᴛ 🌐', callback_data='about')
