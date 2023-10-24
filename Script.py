@@ -4,9 +4,9 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 \n★ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs."""
 
-    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Tony_stark_movies_bot><b>Tony Stark</b></a>\n
-👑 Oᴡɴᴇʀ : <a href=@starkx77><b>🏆 Stark 🏆</b></a>\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/tonystarkbotsx><b>⚡ Tony_Bots ⚡</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Tony_stark_movies_bot><b>👑 ᴛᴏɴʏ ꜱᴛᴀʀᴋ 👑</b></a>\n
+👑 Oᴡɴᴇʀ : <a href=@starkx77><b>⚡ S T A R K ⚡</b></a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/tonystarkbotsx><b>⚡ STARK NETWORK ⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
@@ -132,7 +132,7 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Shahil akhtar
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Ansh Patel
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/starkx77'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
