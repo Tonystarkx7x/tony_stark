@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/tonystarkbotsx')
             ],
             [
-                InlineKeyboardButton('♠️ Subscribe ♠️', url='https://youtube.com/@sa.editz_0'),
+                InlineKeyboardButton('♠️ Subscribe ♠️', url='https://youtube.com/@STARKBotZ7'),
             ],
             [
                 InlineKeyboardButton('🎗️ Owner 🎗️',url='https://t.me/starkx77')
@@ -49,7 +49,7 @@ async def start(client, message):
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton(
-                '🔍 Movies Group 🔍', url='https://t.me/allmovies4udownloder'),
+                '🔍 Movies Group 🔍', url='https://t.me/Allmovie4uuu'),
             InlineKeyboardButton(
                 '🤖 Updates', url='https://t.me/starkx77')
         ], [
@@ -101,7 +101,7 @@ async def start(client, message):
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
              InlineKeyboardButton(
-                '🔍 Movies Group 🔍', url='https://t.me/allmovies4udownloder'),
+                '🔍 Movies Group 🔍', url='https://t.me/Allmovie4uuu'),
             InlineKeyboardButton(
                 '🤖 Updates', url='https://t.me/starkx77')
         ], [
