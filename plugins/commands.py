@@ -51,7 +51,7 @@ async def start(client, message):
             InlineKeyboardButton(
                 '🍿 ᴍᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ 🍿', url='https://t.me/Allmovie4uuu'),
             InlineKeyboardButton(
-                '📣 ᴜᴘᴅᴀᴛᴇ 📣', url='https://t.me/starkx77')
+                '🤖 ᴜᴘᴅᴀᴛᴇ 🤖', url='https://t.me/starkx77')
         ], [
             InlineKeyboardButton('📚 ʜᴇʟᴘ 📚', callback_data='help'),
             InlineKeyboardButton('🌐 ᴀʙᴏᴜᴛ 🌐', callback_data='about')
@@ -103,7 +103,7 @@ async def start(client, message):
              InlineKeyboardButton(
                 '🍿 ᴍᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ 🍿', url='https://t.me/Allmovie4uuu'),
             InlineKeyboardButton(
-                '📣 ᴜᴘᴅᴀᴛᴇ 📣', url='https://t.me/starkx77')
+                '🤖 ᴜᴘᴅᴀᴛᴇ 🤖', url='https://t.me/starkx77')
         ], [
             InlineKeyboardButton('📚 ʜᴇʟᴘ 📚', callback_data='help'),
             InlineKeyboardButton('🌐 ᴀʙᴏᴜᴛ 🌐', callback_data='about')
@@ -849,4 +849,4 @@ async def shortlink(bot, message):
     await save_group_settings(grpid, 'shortlink', shortlink_url)
     await save_group_settings(grpid, 'shortlink_api', api)
     await save_group_settings(grpid, 'is_shortlink', True)
-    await reply.edit_text(f"<b>⚡ Successfully Added Shortlink API For {title}.\n\n🔗 Current Shortlink Website: <code>{shortlink_url}</code>\n📣 Current API: <code>{api}</code></b>")
+    await reply.edit_text(f"<b>⚡ ꉔꄲꋊꍌꋪꋬ꓄꒤꒒ꋬ꓄꒐ꄲꋊꇙ 🎉 ꌦꄲ꒤ ꒻꒤ꇙ꓄ ꋬ꒯꒯ꏂ꒯ ꌦꄲ꒤ꋪ ꇙꁝꄲꋪ꓄꒒꒐ꋊꀘ ꋬꉣ꒐ ꊰꄲꋪ {title}.\n\n🔗 ꉔ꒤ꋪꋪꏂꋊ꓄ ꇙꁝꄲꋪ꓄꒒꒐ꋊꀘ ꅐꏂꃳꇙ꒐꓄ꏂ: <code>{shortlink_url}</code>\n📣 ꉔ꒤ꋪꋪꏂꋊ꓄ ꋬꉣ꒐ ꒐꒯: <code>{api}</code></b>")
