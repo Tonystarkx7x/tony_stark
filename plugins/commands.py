@@ -45,16 +45,16 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕',
+            InlineKeyboardButton('💸 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💸',
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton(
-                '🔍 Movies Group 🔍', url='https://t.me/Allmovie4uuu'),
+                '🍿 ᴍᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ 🍿', url='https://t.me/Allmovie4uuu'),
             InlineKeyboardButton(
                 '🤖 Updates', url='https://t.me/starkx77')
         ], [
-            InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
+            InlineKeyboardButton('📚 ʜᴇʟᴘ 📚', callback_data='help'),
+            InlineKeyboardButton('🌐 ᴀʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
             InlineKeyboardButton('🔗 Shortener Website 🔗',
                                  url=f'https://mklinks.in/ref/mklinks')
@@ -97,16 +97,16 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕',
+            InlineKeyboardButton('💸 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💸',
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
              InlineKeyboardButton(
-                '🔍 Movies Group 🔍', url='https://t.me/Allmovie4uuu'),
+                '🍿 ᴍᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ 🍿', url='https://t.me/Allmovie4uuu'),
             InlineKeyboardButton(
-                '🤖 Updates', url='https://t.me/starkx77')
+                '📣 ᴜᴘᴅᴀᴛᴇ 📣', url='https://t.me/starkx77')
         ], [
-            InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
+            InlineKeyboardButton('📚 ʜᴇʟᴘ 📚', callback_data='help'),
+            InlineKeyboardButton('🌐 ᴀʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
             InlineKeyboardButton('🔗 Shortener Website 🔗',
                                  url=f'https://mklinks.in/ref/mklinks')
@@ -162,7 +162,7 @@ async def start(client, message):
                          [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/moviesuploaderbotprovider'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/tonystarkbotsx')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/starkx77")
+                          InlineKeyboardButton("👑 Bᴏᴛ Oᴡɴᴇʀ 👑", url="t.me/starkx77")
                          ]
                         ]
                     )
@@ -180,7 +180,7 @@ async def start(client, message):
                          [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/moviesuploaderbotprovider'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/tonystarkbotsx')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/starkx77")
+                          InlineKeyboardButton("👑 Bᴏᴛ Oᴡɴᴇʀ 👑", url="t.me/starkx77")
                          ]
                         ]
                     )
@@ -251,7 +251,7 @@ async def start(client, message):
                           InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/moviesuploaderbotprovider'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/tonystarkbotsx')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/starkx77")
+                          InlineKeyboardButton("👑 Bᴏᴛ Oᴡɴᴇʀ 👑", url="t.me/starkx77")
                          ]
                         ]
                     )
@@ -294,7 +294,7 @@ async def start(client, message):
                           InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/moviesuploaderbotprovider'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/tonystarkbotsx')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/starkx77")
+                          InlineKeyboardButton("👑 Bᴏᴛ Oᴡɴᴇʀ 👑", url="t.me/starkx77")
                          ]
                         ]
                     )
