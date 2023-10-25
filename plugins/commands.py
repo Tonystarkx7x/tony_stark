@@ -56,7 +56,7 @@ async def start(client, message):
             InlineKeyboardButton('📚 ʜᴇʟᴘ 📚', callback_data='help'),
             InlineKeyboardButton('🌐 ᴀʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Shortener Website 🔗',
+            InlineKeyboardButton('🔗 ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ 🔗',
                                  url=f'https://mklinks.in/ref/mklinks')
         ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -108,7 +108,7 @@ async def start(client, message):
             InlineKeyboardButton('📚 ʜᴇʟᴘ 📚', callback_data='help'),
             InlineKeyboardButton('🌐 ᴀʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Shortener Website 🔗',
+            InlineKeyboardButton('🔗 ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ 🔗',
                                  url=f'https://mklinks.in/ref/mklinks')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
