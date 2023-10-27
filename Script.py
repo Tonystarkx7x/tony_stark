@@ -4,13 +4,13 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 \n★ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs."""
 
-    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Tony_stark_movies_bot><b>👑 ᴛᴏɴʏ ꜱᴛᴀʀᴋ 👑</b></a>\n
-👑 Oᴡɴᴇʀ : <a href=@starkx77><b>⚡ S T A R K ⚡</b></a>\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/tonystarkbotsx><b>⚡ ꜱᴛᴀʀᴋ ɴᴇᴛᴡᴏʀᴋ ⚡</b></a>\n
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ 🤖: <a href=https://t.me/Tony_stark_movies_bot><b>👑 ᴛᴏɴʏ ꜱᴛᴀʀᴋ 👑</b></a>\n
+👑 ᴏᴡɴᴇʀ 👑: <a href=@starkx77><b>⚡ S T A R K ⚡</b></a>\n
+📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 📢: <a href=https://t.me/tonystarkbotsx><b>⚡ ꜱᴛᴀʀᴋ ɪɴᴅᴜꜱᴛʀɪᴇꜱ ⚡</b></a>\n
+📝 ʟᴀɴɢᴜᴀɢᴇ 📝: ᴘʏʀᴏɢʀᴀᴍ\n
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ 📚: ᴘᴛʜᴏɴ 3\n
+📡 ʜᴏsᴛᴇᴅ ᴏɴ 📡: ʜᴇʀᴏᴋᴜ\n
+🌟 ᴠᴇʀsɪᴏɴ 🌟: ᴠ 4.0\n</b></i>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
